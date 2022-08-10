@@ -1,3 +1,4 @@
+# Это вторая версия (v2.0)
 from typing import Optional
 from fastapi import FastAPI, Form, Cookie
 from fastapi.responses import Response
